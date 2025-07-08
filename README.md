@@ -105,7 +105,7 @@ AdvancedBMICalculator/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/AdvancedBMICalculator
+git clone https://github.com/Aayushinit/AdvancedBMICalculator
 cd AdvancedBMICalculator
 
 # 2. Install dependencies
@@ -137,7 +137,7 @@ This app is not just a calculator. It merges **frontend animation**, **health sc
 
 **Aayush Kadam**
 *Final Year AI & Robotics Enthusiast*
-🔗 [GitHub](https://github.com/yourusername) | 📧 [Email](mailto:your.email@example.com)
+🔗 [GitHub](https://github.com/Aayushinit) | 📧 [Email](mailto:aayush.kadam23@aiml.sce.edu.in)
 
 ---
 
